@@ -144,7 +144,7 @@ It's possible to determinize the capacity of the model to generalize using unsee
 
 * #### The company receives 25% of each transaction value truly detected as fraud.
 
-    The company can receive R\$ 60,613,782.88 detecting fraudu transactions.
+    The company can receive R\$ 60,613,782.88 detecting fraudul transactions.
 
 * #### The company receives 5% of each transaction value detected as fraud, however the transaction is legitimate.
 
