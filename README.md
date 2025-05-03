@@ -32,7 +32,7 @@ For the company, in addition to getting many customers with this risky strategy 
 
 Fraud prevention is the implementation of a strategy to detect fraudulent transactions or banking actions and prevent these actions from causing financial damage and the reputation of the client and the financial institution.
 
-There are always financial frauds and They can happen through virtual and physical ways. So the investment in securitie has been increasing.
+There are always financial frauds and They can happen through virtual and physical ways. So the investment in securities has been increasing.
 
 The losses caused by fraud can reach R\$ 1 billion - which corresponds to half the amount that institutions invest in technology systems aimed at information security every year, according to [Febraban's 2020 Banking Technology Survey](https://blog.simply.com.br/tecnologia-bancaria-2020/).
 
