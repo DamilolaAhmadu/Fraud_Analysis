@@ -30,7 +30,7 @@ For the company, in addition to getting many customers with this risky strategy 
 
 ## 2.0 Business Assumptions
 
-Fraud prevention is the implementation of a strategy to detect fraudulent transactions or banking actions and prevent these actions from causing financial damage, a the reputation of the client and the financial institution.
+Fraud prevention is the implementation of a strategy to detect fraudulent transactions or banking actions and prevent these actions from causing financial damage, the reputation of the client and the financial institution.
 
 There are always financial frauds and They can happen through virtual and physical ways. So the investment in securities has been increasing.
 
