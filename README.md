@@ -150,7 +150,7 @@ It's possible to determinize the capacity of the model to generalize using unsee
 
     For wrong decisions, the company can receive R\$ 183,866.98.
 
-* #### The company gives back 100% of the value for the customer in each transaction detected as legitimate, however the transaction is actually a fraud.
+* #### The company gives back 100% of the value for the customer in each transactions detected as legitimate, however the transaction is actually a fraud.
 
     The company must return the amount of R\$ 3,546,075.42.
 
