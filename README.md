@@ -134,7 +134,7 @@ The chosen model was **XGBoost** and it was tuned to improve their parameters an
 |:-----------------:|:---------------:|:---------------:|:---------------:|:---------------:|
 |  0.881 +/- 0.017  | 0.963 +/- 0.007 | 0.763 +/- 0.035 | 0.851 +/- 0.023 | 0.851 +/- 0.023 |
 
-It's possible to determinize the capacity of the model to generalize using unseen data. In other words, capcity of the model to classify new data as shown.
+It's possible to determinize the capacity of the model to generalize using unseen data. In other words, capacity of the model to classify new data as shown.
 
 | Balanced Accuracy | Precision | Recall |   F1  | Kappa |
 |:-----------------:|:---------:|:------:|:-----:|:-----:|
