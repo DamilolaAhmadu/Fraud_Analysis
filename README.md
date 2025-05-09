@@ -40,7 +40,7 @@ The losses caused by fraud can reach R\$ 1 billion - which corresponds to half t
 
 My solution to solve this problem will be the development of data science project. This project will have a machine learning model which can predict whether a transaction is fraudulent or not.
 
-**Step 01. Data Description:** In this first section the data will be collected and studied. The missing values will be threated or removed. Finally, an initial data description will b carried out to know the data. Therefore some calculations of descriptive statistics will be made, such as kurtosis, skewness, media, fashion, median and standard desviation.
+**Step 01. Data Description:** In this first section the data will be collected and studied. The missing values will be threated or removed. Finally, an initial data description will be carried out to know the data. Therefore some calculations of descriptive statistics will be made, such as kurtosis, skewness, media, fashion, median and standard desviation.
 
 **Step 02. Feature Engineering:** In this section, a mind map will be created to assist the creation of the hypothesis and the creation of new features. These assumptions will help in exploratory data analysis and may improve the model scores.
 
