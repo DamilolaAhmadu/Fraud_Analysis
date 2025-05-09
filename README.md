@@ -54,7 +54,7 @@ My solution to solve this problem will be the development of data science projec
 
 **Step 07. Machine Learning Modeling:** Step 07 aims to train the machine learning algorithms and how they can predict the data. For validation the model is trained, validated and applied to cross validation to know the learning capacity of the model.
 
-**Step 08. Hyparameter Fine Tuning:** Firstly selecte the best model to be applied in the project, it's important to make a fine tuning of the parameters to improve its scores. The same model performance methods apllied in the step 07 are used.
+**Step 08. Hyparameter Fine Tuning:** Firstly select the best model to be applied in the project, it's important to make a fine tuning of the parameters to improve its scores. The same model performance methods apllied in the step 07 are used.
 
 **Step 09. Conclusions:** This is a conclusion stage which the generation capacity model is tested using unseen data. In addition, some business questions are answered to show the applicability of the model in the business context.
 
