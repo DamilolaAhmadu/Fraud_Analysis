@@ -26,7 +26,7 @@ With this aggressive strategy, the company assumes the risks of failing to detec
 
 For the client, it is an excellent business to hire the Blocker Fraud Company. Although the fee charged is very high on success, 25%, the company reduces its costs with fraudulent transactions detected correctly and even the damage caused by an error in the anti-fraud service will be covered by the Blocker Fraud Company itself.
 
-For the company, in addition to getting many customers with this risky strategy to guarantee reimbursement in the event of failure to detect customer fraud, it depends only on the precision and accuracy of the models built by its Data Scientists, in other words, how much the more accurate the “Blocker Fraud” model, the greater the company's revenue. However, if the model has low accuracy, the company could have a huge loss.
+For the company, in addition to getting many customers with thi risky strategy to guarantee reimbursement in the event of failure to detect customer fraud, it depends only on the precision and accuracy of the models built by its Data Scientists, in other words, how much the more accurate the “Blocker Fraud” model, the greater the company's revenue. However, if the model has low accuracy, the company could have a huge loss.
 
 ## 2.0 Business Assumptions
 
