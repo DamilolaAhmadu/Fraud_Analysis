@@ -34,7 +34,7 @@ Fraud prevention is the implementation of a strategy to detect fraudulent transa
 
 There are always financial frauds and they can happen through virtual and physical ways. So the investment in securities has been increasing.
 
-The losses caused by fraud can reach R\$ 1 billion - which corresponds to half the amount th institutions invest in technology systems aimed at information security every year, according to [Febraban's 2020 Banking Technology Survey](https://blog.simply.com.br/tecnologia-bancaria-2020/).
+The losses caused by fraud can reach R\$ 1 billion - which corresponds to half the amount the institutions invest in technology systems aimed at information security every year, according to [Febraban's 2020 Banking Technology Survey](https://blog.simply.com.br/tecnologia-bancaria-2020/).
 
 ## 3.0 Solution Strategy
 
