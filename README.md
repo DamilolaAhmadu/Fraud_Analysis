@@ -1,6 +1,6 @@
 # Transaction Fraud Detection
 
-A data science project to predict whether a transaction is a fraud or not.
+A data science project i to predict whether a transaction is a fraud or not.
 
 <div align="center">
     <img alt="Transaction Fraud Detection" src="./reports/figures/high-angle-credit-card-with-hook-phishing.jpg" width="100%" height="300">
