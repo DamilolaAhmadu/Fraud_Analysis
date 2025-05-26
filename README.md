@@ -176,7 +176,7 @@ It's possible to determinize the capacity of the model to generalize using unsee
 
 ## 8.0 Conclusions
 
-The data is extremely unbalance, however it was possible to make all the data analysis and create iwith good scores.
+The data is extremely unbalance, however it was possible to make all the data analysis and create it with good scores.
 
 The company may expect a revenue of R\$ 57,251,574.44. These results may show the capacity of a project of data science and help the company.
 
