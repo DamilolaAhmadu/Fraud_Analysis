@@ -38,7 +38,7 @@ The losses caused by fraud can reach R\$ 1 billion - which corresponds to half t
 
 ## 3.0 Solution Strategy
 
-My solution to solve this problem will be the development of data science project. This project will have a machine learning model which can predict whether a transaction is fraudulent or not.
+My solution to solv this problem will be the development of data science project. This project will have a machine learning model which can predict whether a transaction is fraudulent or not.
 
 **Step 01. Data Description:** In this first section, the data will be collected and studied. The missing values will be threated or removed. Finally, an initial data description will be carried out to know the data. Therefore some calculations of descriptive statistics will be made, such as kurtosis, skewness, media, fashion, median and standard desviation.
 
