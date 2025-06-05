@@ -76,7 +76,7 @@ My solution to solvinthis problem will be the development of data science projec
 
 * #### Values greater than 100.000 occours using transfers-type method.
 
-    **FALSE:** The majority transactions occours in trasnfer-type, however transactions greater than 100.000 occour in cash-out and cash-in too.
+    **FALSE:** The majority transactions occours in transfer-type, however transactions greater than 100.000 occour in cash-out and cash-in too.
 
     ![hypothesis4](reports/figures/hypothesis4_cycle1.png)
 
