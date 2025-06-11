@@ -10,7 +10,7 @@ A data science project is to predict whether a transaction is a fraud or not.
 
 ## 1.0 Business Problem
 
-The Blocker Fraud Company is a company specialized in detecting fraud in financial transactions made through mobile devices. The company has a service called "Blocker Fraud" which guarantees the blocking of fraudulent transactions.
+The Blocker Fraud Company is a company specialized in detecting frauds in financial transactions made through mobile devices. The company has a service called "Blocker Fraud" which guarantees the blocking of fraudulent transactions.
 
 The business models of the company is of the Service type with the monetizations made by the performance of the services provided, in other words, the user pays a fixed fee on the success of detecting fraud in the customer's transactions.
 
