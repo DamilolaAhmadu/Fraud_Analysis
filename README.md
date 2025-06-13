@@ -16,7 +16,7 @@ The business models of the company is of the Services type with the monetization
 
 However, the Blocker Fraud Company is expanding in Brazil and to acquire customers more quickly, it has adopted a very aggressive strategy. The strategy works as follows:
 
-1. The company will receive 25% of the value of each transactions truly detected as fraud;
+1. The company will receive 25% of the value of each transactions truly detected as frauds;
 
 1. The company will receive 5% of the value of each transactions detected as fraud, but the transaction is truly legitimate.
 
