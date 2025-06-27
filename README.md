@@ -22,7 +22,7 @@ However, the Blocker Fraud Company is expanding in Brazil and to acquire custome
 
 1. The company will return 100% of the value to the customers, for each transactions detected as legitimate, however, the transaction is truly a fraud.
 
-With this aggressive strategy, the company assumes the risk of failing to detect fraud and is remunerated for assertive fraud detection.
+With this aggressive strategy, the company assumes the risk of failing to detect frauds and is remunerated for assertive fraud detection.
 
 For the client, it is an excellent business to hire the Blocker Fraud Company. Although the fee charged is very high on success, 25%, the company reduces its costs with fraudulent transactions detected correctly and even the damages caused by an error in the anti-fraud services will be covered by the Blocker Fraud Company itself.
 
