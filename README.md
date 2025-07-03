@@ -18,7 +18,7 @@ However, the Blocker Fraud Company is expanding in Brazil and to acquire custome
 
 1. The company will receive 25% of the value of each transactions truly detected as frauds;
 
-1. The company will receive 5% of the value of each transactions detected as fraud, but the transaction is truly legitimate.
+2. The company will receive 5% of the value of each transactions detected as fraud, but the transaction is truly legitimate.
 
 1. The company will return 100% of the value to the customer, for each transactions detected as legitimate, however, the transaction is truly a fraud.
 
