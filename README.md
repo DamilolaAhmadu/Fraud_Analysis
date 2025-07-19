@@ -70,7 +70,7 @@ My solution to solving this problem will be the development of data science proj
 
 * #### 60% of fraud transaction occours using cash-out-type method.
 
-    **FALSE:** The fraud transaction occours in transfer and cash-out type. However they are almost the same value.
+    **FALSE:** The fraud transaction occours in transfer and cash-out type. However they are almost the same values.
 
     ![hypothesis3](reports/figures/hypothesis3_cycle1.png)
 
